@@ -1,0 +1,48 @@
+import pyodbc
+
+server = '127.0.0.1'     # Striker(a.k.a. localhost) server
+#server = '192.168.1.21' # Castit server
+database = 'Castit'
+username = 'prog_jdbc'
+password = 'Pr0gIt!'
+
+# list configured drivers
+# pyodbc.drivers()
+
+# AS400 connection
+#cnxn = pyodbc.connect('DSN=as400')
+
+# striker Castit connection
+cnxn = pyodbc.connect('DRIVER={ODBC Driver 17 for SQL Server};SERVER=' + server + ';PORT=1433;DATABASE=' + database+';UID=' + username + ';PWD=' + password)
+
+# get cursor
+castit_cursor = cnxn.cursor()
+
+castit_cursor.execute("alter part_price alter part_number char(25)")
+
+
+
+    
+    
+'''
+
+id = 1
+for custno in custnos:
+    
+    row = cursor.fetchone()
+    
+    first_join = row[0].encode("utf-8")
+    print first_join
+    print type(first_join)
+
+    cursor.execute("""
+                          select 
+                            from * Customer
+                           where  = ? AND master = ?
+                          """, custno, masterno).fetchall()
+
+    
+    print execution
+    print type(execution)
+'''    
+    

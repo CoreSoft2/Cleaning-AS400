@@ -1,0 +1,57 @@
+554        3DE001 3 Dimensional Engineering
+892        ALL001 Acent Laboratories, LLC
+811        APM001 Acutec Precision Machining Inc
+922        ADI001 Adept, Inc.
+458        ASI002 Alloy Specialties, Inc.
+908        ANE001 Antron Engineering & Machine
+890        AIP001 Avior Integrated Products Inc.
+921        CET001 Cascade Engineering Tech., Inc
+157        CAM001 Cmp, Advanced Mech. Solutions
+451        CTI001 Command Technology, Inc.
+208        DJI001 Dj Industries
+552        DNU001 Do Not Use
+232        DNU002 Do Not Use. Use C/n 207 Please
+977        EII001 E.T.M. Industries Inc.
+537        EES001 Efw (elbit Systems Of America
+3002       EMC001 Em Corporation
+910        GII001 Garmin International Inc.
+891        GTC001 Garrity Tool Company LLC
+418        GTI001 Gridsmart Technologies, Inc.
+930        HAC003 Honda Aircraft Company
+889        HPT001 Hri Precision Tool Co., Inc.
+929        IEI001 International Enterprises Inc.
+211        JMC002 J.T. Manufacturing, Corp.
+981        JEC002 Jetyd Corporation
+974        JCN001 Johnson Controls Navy Systems
+935        LAW001 Laufer Wind
+446        LSC001 Linemaster Switch Corporation
+343        MGI002 Marty Gilman, Inc.
+534        MCT001 Mct-metal Casting Technology
+881        MCI002 Multi-machining Co., Inc.
+379        NSW001 Naval Surface Warfare Center
+826        NEC003 Neurologica Corp.
+236        NIM001 Nim-cor
+408        NAI001 Nse Automatech Inc.
+297        OFC001 Ossur (formerly Century Xxii)
+995        PAS002 Partec S.R.L.
+885        PMS001 Precision Mfg. Solutions Inc.
+918        PRL001 Pressco Ltd.
+886        PIS002 Price Induction Sa
+827        Q0L001 Q, LLC
+914        QCL001 QCC, LLC
+819        R003 R & R Cycles Inc.
+419        RAC005 Raloid Corporation
+194        ROE001 Romakk Engineering
+290        RTA002 Rtsc A/p
+923        SMM001 Sheet Metal Models Machine &
+882        SBG001 Showa Best Glove, Inc.
+577        SPA001 SpaceX
+962        SRI001 Srpm, Inc.
+391        TEI006 Testvonics Incorporated
+976        TBG001 The Bernd Group
+982        TTG001 The Torque Gun Company, LLC
+801        TMI001 Timna Manufacturing Inc.
+656        TPM001 Trident Precision Mfg., Inc.
+444        WEI001 Wessdel Inc.
+961        WII001 Williams International
+
